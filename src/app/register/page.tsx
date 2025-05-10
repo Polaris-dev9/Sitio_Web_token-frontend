@@ -1,3 +1,4 @@
+"use client"
 import { useState } from 'react'
 import { useForm } from 'react-hook-form'
 import { FaUser, FaEnvelope, FaLock, FaIdCard, FaBuilding } from 'react-icons/fa'
