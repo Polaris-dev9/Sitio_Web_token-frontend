@@ -1,3 +1,4 @@
+"use client"
 import { FaSearch, FaFileAlt, FaWallet, FaChartLine } from 'react-icons/fa'
 
 const steps = [

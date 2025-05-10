@@ -1,3 +1,5 @@
+"use client"
+
 import { FaWallet, FaChartLine, FaBuilding, FaHistory } from 'react-icons/fa'
 
 // Mock data for the dashboard

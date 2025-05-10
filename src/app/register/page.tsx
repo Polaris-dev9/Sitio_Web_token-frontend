@@ -31,6 +31,10 @@ export default function Register() {
     }
   }
 
+  if (typeof window !== "undefined") {
+    // browser-only code
+  }
+
   return (
     <div className="min-h-screen bg-accent">
       {/* Hero Section */}
@@ -287,7 +291,7 @@ export default function Register() {
                 <div className="mt-6">
                   <a
                     href="/dashboard"
-                    className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-secondary bg-primary hover:bg-primary-dark"
+                    className="inline-flex items-center px-4 py-2 border border-transparent rounded-md text-secondary bg-primary hover:bg-primary-dark"
                   >
                     Go to Dashboard
                   </a>

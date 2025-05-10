@@ -1,3 +1,4 @@
+"use client"
 import { FaSearch, FaFilter, FaMapMarkerAlt, FaBuilding, FaChartLine } from 'react-icons/fa'
 
 // Mock data for properties
