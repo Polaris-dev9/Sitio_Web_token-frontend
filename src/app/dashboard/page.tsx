@@ -1,4 +1,5 @@
 "use client"
+export const dynamic = "force-dynamic"
 
 import { FaWallet, FaChartLine, FaBuilding, FaHistory } from 'react-icons/fa'
 

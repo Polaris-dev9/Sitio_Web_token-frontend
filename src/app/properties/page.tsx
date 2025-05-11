@@ -1,4 +1,6 @@
 "use client"
+export const dynamic = "force-dynamic"
+
 import { FaSearch, FaFilter, FaMapMarkerAlt, FaBuilding, FaChartLine } from 'react-icons/fa'
 
 // Mock data for properties
