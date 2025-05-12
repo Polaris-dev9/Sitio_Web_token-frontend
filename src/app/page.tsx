@@ -14,15 +14,8 @@ export default function Home() {
         <div className="relative max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl font-display font-bold tracking-tight sm:text-5xl lg:text-6xl">
-              <span>
-                <p>Hello, I'm Svitlana.</p>
-                <p>Do you use telegram?</p>
-                <p>@morningstar1213</p>
-                <p>This is my telegram username.</p>
-                <p>How about communication in telegram for more flexible communication?</p>
-              </span>
-              {/* <span className="block text-primary">Real Estate Investment</span> */}
-              {/* <span className="block">Made Simple</span> */}
+              <span className="block text-primary">Real Estate Investment</span>
+              <span className="block">Made Simple</span>
             </h1>
             <p className="mt-6 text-xl text-accent-dark max-w-3xl mx-auto">
               Tokenize your real estate investments and access premium properties with just a few clicks.
